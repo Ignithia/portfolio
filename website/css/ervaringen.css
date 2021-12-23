@@ -7,8 +7,8 @@
     box-sizing: border-box;
 }
 
-.bgTest{
-    background-image: url('/Website/Media/Sunshine.jpg');
+.bg{
+    background-image: url('/website/media/bg/Sunshine.jpg');
     /* Full height */
     
  

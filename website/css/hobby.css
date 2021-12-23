@@ -7,8 +7,8 @@
   box-sizing: border-box;
 }
 
-.bgTest{
-    background-image: url('/Website/Media/Sunshine_Roof.jpg');
+.bg{
+    background-image: url('/website/media/bg/Sunshine_Roof.jpg');
     
     background-position: center;
     background-repeat: no-repeat;

@@ -7,8 +7,8 @@
     box-sizing: border-box;
 }
 
-.bgTest{
-    background-image: url('/Website/Media/Sunset_hedge.jpg');
+.bg{
+    background-image: url('/website/media/bg/Sunset_hedge.jpg');
     /* Center and scale the image nicely */
     background-position: center;
     background-repeat: no-repeat;

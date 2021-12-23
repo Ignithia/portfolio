@@ -7,8 +7,8 @@
     box-sizing: border-box;
 }
 
-.bgTest{
-    background-image: url('/Website/Media/Sunset_trees.jpg');
+.bg{
+    background-image: url('/website/media/bg/Sunset_trees.jpg');
     /* Full height */
     
  
