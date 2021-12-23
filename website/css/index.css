@@ -25,10 +25,20 @@
     display: flex;
     padding-bottom: 10px;
 }
-.cards div{
+@media screen and (min-width: 767px) {
+    
+    .cards div{
     flex: 33%;
 }
-
+}
+@media screen and (max-width: 767px) {
+    .cards{
+        flex-direction: column;
+    }
+    .cards div{
+        flex: 100%;
+    }    
+}
 #Icon{
     align-self: center;
     font-size: 100px;
