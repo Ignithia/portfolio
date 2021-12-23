@@ -13,7 +13,7 @@ html, body {
 body {
     display: flex;
     flex-direction: column;
-    background-color: #343a40;
+    background-color: #ffffff;
     height: 100%;
   }
 .bgtest{
@@ -50,7 +50,7 @@ body {
 }
 footer{
     clear: both;
-    background-color: #343a40;
+    background-color: #212529;
     color: #ffffff;
     padding: 10px;
     position: relative;
