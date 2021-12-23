@@ -21,3 +21,9 @@
     padding-bottom: 100px;
     
 }
+.Fotos{
+    display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}

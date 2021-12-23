@@ -34,3 +34,10 @@
 .flex-container > div{
     flex-grow: 6;
 }
+#Intro{
+    text-align: center;
+}
+a, a:hover{
+    color: white;
+    text-decoration: none;
+}

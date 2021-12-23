@@ -1,5 +1,5 @@
 var multipleCardCarousel = document.querySelector(
-    "#carousel"
+    "#carouselExampleControls"
   );
   if (window.matchMedia("(min-width: 768px)").matches) {
     var carousel = new bootstrap.Carousel(multipleCardCarousel, {
