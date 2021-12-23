@@ -9,9 +9,6 @@
 
 .bgTest{
     background-image: url('/Website/Media/Sunset_hedge.jpg');
-    /* Full height */
-    
- 
     /* Center and scale the image nicely */
     background-position: center;
     background-repeat: no-repeat;
@@ -22,6 +19,7 @@
     
 }
 
+/* accordion */
 .accordion-button{
     background-color: #646464;
     color: white;
@@ -32,3 +30,23 @@
     color: white;
     box-shadow: inset 0 -1px 0 rgb(0 0 0 / 13%);
 }
+
+
+
+/* Container for skill bars */
+#Skillbar{
+    width: 100%; /* Full width */
+    background-color: rgb(236, 215, 215); /* Grey background */
+    padding: 0px;
+  }
+  
+  .skills {
+    text-align: center; /* Right-align text */
+    padding-top: 10px; /* Add top padding */
+    padding-bottom: 10px; /* Add bottom padding */
+    color: white; /* White text color */
+  }
+  
+  .dutch {width: 80%; background-color: #04AA6D;} /* Green */
+  .english {width: 90%; background-color: #2196F3;} /* Blue */
+  .french {width: 45%; background-color: #f44336;} /* Red */
