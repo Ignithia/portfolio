@@ -6,9 +6,6 @@
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     box-sizing: border-box;
 }
-nav,footer{
-    min-height: 100px;
-}
 html, body {
     /* IE 10-11 didn't like using min-height */
     height: 100%;
@@ -19,10 +16,6 @@ body {
     background-color: #343a40;
     height: 100%;
   }
-  nav{
-    padding: 15px;
-    overflow: hidden;
-}
 .bgtest{
     height: auto;
 }
